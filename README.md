@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/GitHub-aditigawde1305-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/aditi-gawde-48329534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rutuja%20Pansare-0A66C2?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-aditi%20gawde-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://rutuja-data-insight.lovable.app//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FE7F00?style=flat-square&logo=Google-Chrome&logoColor=white" />
