@@ -9,8 +9,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on *Hostel Management System*  
-- 📊 Creating beautiful *Power BI & Tableau Dashboards*  
+- 🔭 Currently working on *Hostel Management System*   
 - 🐍 Strong in *Python & SQL*  
 - 🧠 Passionate about *Machine Learning & Data Visualization*  
 - 🌱 Learning *Python | SQL Joins | Analytics*  
@@ -35,13 +34,10 @@
 
 ## 💼 Projects
 
-### 🌐 Hostel Management System
+### 🌐 Tourism managment system
 - Built using *HTML, CSS, JavaScript*  
 - Clean UI + student management forms  
 
-### 📊 Dashboard Projects
-- *Power BI Dashboards* with slicers & KPI insights  
-- *Tableau Dashboards* with charts and storytelling  
 
 ---
 
@@ -64,10 +60,10 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://github.com/Rutu1929" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Rutu1929-181717?style=flat-square&logo=github" />
+  <a href="https://github.com/aditigawde1305" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-aditigawde1305-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/rutuja-pansare-7b5142374" target="_blank">
+  <a href="https://www.linkedin.com/in/aditi-gawde-48329534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rutuja%20Pansare-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://rutuja-data-insight.lovable.app//" target="_blank">
